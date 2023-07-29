@@ -4,18 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ffeac62-1648-4437-b6ac-63c49061c3eb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/jdbc/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/jdbc/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/spring/jdbc/AppTest.java" afterDir="false" />
+    <list default="true" id="0ffeac62-1648-4437-b6ac-63c49061c3eb" name="Changes" comment="spring jdbc">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/jdbc/dao/StudentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/jdbc/dao/StudentDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring/jdbc/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spring/jdbc/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring/jdbc/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spring/jdbc/entity/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,8 +20,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="XML Properties File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -65,7 +60,7 @@
       <module name="springjdbc" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.spring.jdbc.*" />
+          <option name="PATTERN" value="com.spring.jdbc.entity.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,6 +83,19 @@
       <option name="presentableId" value="Default" />
       <updated>1690600995454</updated>
     </task>
+    <task id="LOCAL-00001" summary="spring jdbc">
+      <option name="closed" value="true" />
+      <created>1690612810693</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1690612810694</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="spring jdbc" />
+    <option name="LAST_COMMIT_MESSAGE" value="spring jdbc" />
   </component>
 </project>
