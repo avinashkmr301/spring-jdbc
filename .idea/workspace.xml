@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ffeac62-1648-4437-b6ac-63c49061c3eb" name="Changes" comment="changed structured spring jdbc">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/jdbc/dao/RowMapperImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spring/jdbc/config/JdbcConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/spring/jdbc/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spring/jdbc/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring/jdbc/dao/StudentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spring/jdbc/dao/StudentDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring/jdbc/dao/StudentDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/spring/jdbc/dao/StudentDaoImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +103,15 @@
       <option name="project" value="LOCAL" />
       <updated>1690615553417</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="changed structured spring jdbc">
+      <option name="closed" value="true" />
+      <created>1690631423191</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1690631423191</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
